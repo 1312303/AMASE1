@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AMASE</string>
+    <string-array name="permit">
+        <item>Accept</item>
+        <item>Deny</item>
+    </string-array>
+</resources>
